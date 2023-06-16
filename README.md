@@ -1,5 +1,4 @@
-# FIT2099 Assignment (Semester 1, 2023)
-# Elden Ring
+# Mini Elden Ring
 
 ## Instructions:
 1. Run the Application class to start the game.
